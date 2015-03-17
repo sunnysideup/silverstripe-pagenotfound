@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index xmlns="http://xml.phpdox.net/src" basedir="/var/www/_modules/pagenotfound/trunk">
+  <namespace name="">
+    <class name="PageNotFound" src="code/PageNotFound.php" description="ErrorPage holds the content for the page of an error response." xml="classes/PageNotFound.xml"/>
+    <class name="PageNotFound_Controller" src="code/PageNotFound.php" description="Controller for ErrorPages." xml="classes/PageNotFound_Controller.xml"/>
+  </namespace>
+</index>
